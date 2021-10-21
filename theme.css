@@ -1,0 +1,27 @@
+body {
+    background-color: antiquewhite;
+    color-scheme: light;
+}
+
+div.chapter {
+    font: 15px Cursive, sans-serif;
+    font-style: oblique;
+}
+
+p {
+    font: 15px Cursive, sans-serif;
+    font-style: oblique;
+}
+
+h1 {
+    color: purple;
+}
+
+h2, h3, h4, h5, h6 {
+    color:red;
+}
+
+img {
+    filter: grayscale();
+    border-radius: 90%;
+}

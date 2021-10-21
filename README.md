@@ -1,6 +1,10 @@
 Assignment: CSS Hell
 ====================
-
+Modifications:
+To use an external CSS document in the HTML files, I had to include the line
+<link rel="stylesheet" href="theme.css"> in the <head> tag.
+====================
+Requirements:
 You will skin 3 project gutenberg stories with custom CSS.
 
 You will skin 2 versions of a possible professional homepage for your
