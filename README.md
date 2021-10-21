@@ -6,6 +6,7 @@ To use an external CSS document in the HTML files, I had to include the line:
 Screenshots are included in their respective directories (glutenberg & homepage)
 
 ====================
+
 Requirements:
 You will skin 3 project gutenberg stories with custom CSS.
 
