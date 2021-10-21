@@ -25,3 +25,9 @@ img {
     filter: grayscale();
     border-radius: 90%;
 }
+
+figcaption {
+    color: white;
+    font: 15px Cursive, sans-serif;
+    font-style: oblique;
+}
